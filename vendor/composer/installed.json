@@ -1,0 +1,93 @@
+[
+    {
+        "name": "components/animate.css",
+        "version": "3.3.0.1",
+        "version_normalized": "3.3.0.1",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/larakit/animate.css.git",
+            "reference": "b4e150bdcb635884e5691f61d86ce3a39935fda6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/larakit/animate.css/zipball/b4e150bdcb635884e5691f61d86ce3a39935fda6",
+            "reference": "b4e150bdcb635884e5691f61d86ce3a39935fda6",
+            "shasum": ""
+        },
+        "time": "2015-07-08 10:41:04",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Daniel Eden",
+                "role": "authors"
+            },
+            {
+                "name": "Alexey Berdnikov",
+                "email": "aberdnikov@gmail.com",
+                "role": "maintainer of package for composer"
+            }
+        ],
+        "description": "Just-add-water CSS animation",
+        "keywords": [
+            "Animate.css"
+        ]
+    },
+    {
+        "name": "twitter/bootstrap",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twbs/bootstrap.git",
+            "reference": "45b318b32f5161c32910d4cf4730200d62934ae4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twbs/bootstrap/zipball/45b318b32f5161c32910d4cf4730200d62934ae4",
+            "reference": "45b318b32f5161c32910d4cf4730200d62934ae4",
+            "shasum": ""
+        },
+        "replace": {
+            "twitter/bootstrap": "self.version"
+        },
+        "time": "2015-12-06 19:29:47",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.3.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jacob Thornton",
+                "email": "jacobthornton@gmail.com"
+            },
+            {
+                "name": "Mark Otto",
+                "email": "markdotto@gmail.com"
+            }
+        ],
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+        "homepage": "http://getbootstrap.com",
+        "keywords": [
+            "JS",
+            "css",
+            "framework",
+            "front-end",
+            "less",
+            "mobile-first",
+            "responsive",
+            "web"
+        ]
+    }
+]

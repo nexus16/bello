@@ -1,0 +1,17 @@
+{
+    "name": "pencipi/bello",
+    "description": "Project Website Bello",
+    "type": "json",
+    "require": {
+        "twitter/bootstrap": "^3.3",
+        "components/animate.css": "3.3.0.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dat",
+            "email": "dat.hedspi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

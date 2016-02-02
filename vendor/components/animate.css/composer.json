@@ -1,0 +1,19 @@
+{
+    "name": "components/animate.css",
+    "description": "Just-add-water CSS animation",
+    "keywords": ["animate.css"],
+    "version": "3.3.0.1",
+    "license": "MIT",
+    "authors": [
+		{
+			"name": "Daniel Eden",
+			"url": "http://daneden.me/",
+			"role": "authors"
+		},
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com",
+            "role": "maintainer of package for composer"
+        }
+    ]
+}
